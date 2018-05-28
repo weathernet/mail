@@ -1,0 +1,15 @@
+com\mall\utils\IDUtils.class
+com\mall\service\ReceiverService.class
+com\mall\utils\CookieUtils.class
+com\mall\pojo\Receiver.class
+com\mall\controller\UserController.class
+com\mall\mapper\ReceiverMapper.class
+com\mall\utils\JsonUtils.class
+com\mall\mapper\UserMapper.class
+com\mall\controller\ReceiverController.class
+com\mall\service\UserService.class
+com\mall\pojo\Commodity.class
+com\mall\mapper\ComMapper.class
+com\mall\controller\ComController.class
+com\mall\pojo\User.class
+com\mall\service\ComService.class
